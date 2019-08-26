@@ -1,0 +1,42 @@
+{
+	"variables": [],
+	"info": {
+		"name": "countriesIBM",
+		"_postman_id": "a3695ac9-aefa-b57e-db71-242908adc6d5",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/api/countries/continent/name/asia",
+			"request": {
+				"url": "http://localhost:8027/api/countries/continent/name/asia",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "/api/countries",
+			"request": {
+				"url": "http://localhost:8027/api/countries",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\": \"ABCD\",\n\t\"capital\": \"EFG\",\n\t\"continent\": \"NORTH_AMERICA\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

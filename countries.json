@@ -1,0 +1,53 @@
+{"_id":{"$oid":"5d6060593678fdb65d7f53b5"},"name":"Albania","capital":"Tirana","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53b6"},"name":"Andorra","capital":"Andorra la Vella","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53b7"},"name":"Austria","capital":"Vienna","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53b8"},"name":"Belarus","capital":"Minsk","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53b9"},"name":"Belgium","capital":"Brussels","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53ba"},"name":"Bosnia and Herzegovina","capital":"Sarajevo","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53bb"},"name":"Bulgaria","capital":"Sofia","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53bc"},"name":"Croatia","capital":"Zagreb","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53bd"},"name":"Czech Republic","capital":"Prague","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53be"},"name":"Denmark","capital":"Copenhagen","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53bf"},"name":"Estonia","capital":"Tallinn","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c0"},"name":"Finlay","capital":"Helsinki","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c1"},"name":"France","capital":"Paris","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c2"},"name":"Germany","capital":"Berlin","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c3"},"name":"Greece","capital":"Athens","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c4"},"name":"Hungary","capital":"Budapest","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c5"},"name":"Iceland","capital":"Reykjavik","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c6"},"name":"Republic of Ireland","capital":"Dublin","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c7"},"name":"Italy","capital":"Rome","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c8"},"name":"Kosovo","capital":"Pristina","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53c9"},"name":"Latvia","capital":"Riga","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53ca"},"name":"Liechtenstein","capital":"Vaduz","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53cb"},"name":"Lithuania","capital":"Vilnius","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53cc"},"name":"Luxembourg","capital":"Luxembourg City","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53cd"},"name":"Macedonia","capital":"Skopje","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53ce"},"name":"Malta","capital":"Valletta","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53cf"},"name":"Moldova","capital":"Chisinau","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d0"},"name":"Monaco","capital":"Monte Carlo Quarter","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d1"},"name":"Montenegro","capital":"Podgorica","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d2"},"name":"Netherlands","capital":"Amsterdam (Capital)","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d3"},"name":"Norway","capital":"Oslo","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d4"},"name":"Poland","capital":"Warsaw","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d5"},"name":"Portugal","capital":"Lisbon","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d6"},"name":"Romania","capital":"Bucharest","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d7"},"name":"San Marino","capital":"San Marino","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d8"},"name":"Serbia","capital":"Belgrade","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53d9"},"name":"Slovakia","capital":"Bratislava","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53da"},"name":"Slovenia","capital":"Ljubljana","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53db"},"name":"Spain","capital":"Madrid","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53dc"},"name":"Sweden","capital":"Stockholm","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53dd"},"name":"Switzerland","capital":"Bern","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53de"},"name":"Ukraine","capital":"Kyiv or Kiev","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53df"},"name":"United Kingdom","capital":"London","continent":"EUROPE"}
+{"_id":{"$oid":"5d6060593678fdb65d7f53e0"},"name":"Vatican City","capital":"Vatican City","continent":"EUROPE"}
+{"_id":{"$oid":"5d6063dcf4be7b8c5d28bb0a"},"name":"Algeria","capital":"Algiers","continent":"AFRICA"}
+{"_id":{"$oid":"5d60643df4be7b8c5d28bb31"},"name":"Angola","capital":"Luanda","continent":"AFRICA"}
+{"_id":{"$oid":"5d606442f4be7b8c5d28bb36"},"name":"Benin","capital":"Porto Novo","continent":"AFRICA"}
+{"_id":{"$oid":"5d6065e5f4be7b8c5d28bb98"},"name":"Japan","capital":"Tokyo","continent":"ASIA"}
+{"_id":{"$oid":"5d6065fff4be7b8c5d28bb9f"},"name":"Iran","capital":"Tehran","continent":"ASIA"}
+{"_id":{"$oid":"5d606628f4be7b8c5d28bba9"},"name":"Nepal","capital":"Kathmandu","continent":"ASIA"}
+{"_id":{"$oid":"5d606b7b60c00b4023d25804"},"name":"Mexico","capital":"Mexico City","continent":"NORTH_AMERICA","_class":"com.microservice.training.countriesdemo.model.entity.CountryDocument"}
+{"_id":{"$oid":"5d606c0e60c00b4023d25805"},"name":"Mexico","capital":"Mexico City","continent":"NORTH_AMERICA","_class":"com.microservice.training.countriesdemo.model.entity.CountryDocument"}
+{"_id":{"$oid":"5d606d3460c00b42580383d0"},"name":"ABCD","capital":"EFG","continent":"NORTH_AMERICA","_class":"com.microservice.training.countriesdemo.model.entity.CountryDocument"}
